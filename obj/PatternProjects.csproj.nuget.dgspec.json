@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Sumps\\Documents\\Estudos\\PatternProjects\\PatternProjects.csproj": {}
+    "C:\\Users\\Sumps\\Documents\\Estudos\\DesignPatterns\\PatternProjects.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Sumps\\Documents\\Estudos\\PatternProjects\\PatternProjects.csproj": {
+    "C:\\Users\\Sumps\\Documents\\Estudos\\DesignPatterns\\PatternProjects.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Sumps\\Documents\\Estudos\\PatternProjects\\PatternProjects.csproj",
+        "projectUniqueName": "C:\\Users\\Sumps\\Documents\\Estudos\\DesignPatterns\\PatternProjects.csproj",
         "projectName": "PatternProjects",
-        "projectPath": "C:\\Users\\Sumps\\Documents\\Estudos\\PatternProjects\\PatternProjects.csproj",
+        "projectPath": "C:\\Users\\Sumps\\Documents\\Estudos\\DesignPatterns\\PatternProjects.csproj",
         "packagesPath": "C:\\Users\\Sumps\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Sumps\\Documents\\Estudos\\PatternProjects\\obj\\",
+        "outputPath": "C:\\Users\\Sumps\\Documents\\Estudos\\DesignPatterns\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Sumps\\AppData\\Roaming\\NuGet\\NuGet.Config",
