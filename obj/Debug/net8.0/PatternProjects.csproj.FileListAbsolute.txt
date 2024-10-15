@@ -1,0 +1,14 @@
+C:\Users\Sumps\Documents\Estudos\PatternProjects\bin\Debug\net8.0\PatternProjects.exe
+C:\Users\Sumps\Documents\Estudos\PatternProjects\bin\Debug\net8.0\PatternProjects.deps.json
+C:\Users\Sumps\Documents\Estudos\PatternProjects\bin\Debug\net8.0\PatternProjects.runtimeconfig.json
+C:\Users\Sumps\Documents\Estudos\PatternProjects\bin\Debug\net8.0\PatternProjects.dll
+C:\Users\Sumps\Documents\Estudos\PatternProjects\bin\Debug\net8.0\PatternProjects.pdb
+C:\Users\Sumps\Documents\Estudos\PatternProjects\obj\Debug\net8.0\PatternProjects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sumps\Documents\Estudos\PatternProjects\obj\Debug\net8.0\PatternProjects.AssemblyInfoInputs.cache
+C:\Users\Sumps\Documents\Estudos\PatternProjects\obj\Debug\net8.0\PatternProjects.AssemblyInfo.cs
+C:\Users\Sumps\Documents\Estudos\PatternProjects\obj\Debug\net8.0\PatternProjects.csproj.CoreCompileInputs.cache
+C:\Users\Sumps\Documents\Estudos\PatternProjects\obj\Debug\net8.0\PatternProjects.dll
+C:\Users\Sumps\Documents\Estudos\PatternProjects\obj\Debug\net8.0\refint\PatternProjects.dll
+C:\Users\Sumps\Documents\Estudos\PatternProjects\obj\Debug\net8.0\PatternProjects.pdb
+C:\Users\Sumps\Documents\Estudos\PatternProjects\obj\Debug\net8.0\PatternProjects.genruntimeconfig.cache
+C:\Users\Sumps\Documents\Estudos\PatternProjects\obj\Debug\net8.0\ref\PatternProjects.dll
