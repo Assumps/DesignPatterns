@@ -1,10 +1,7 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using PatternProjects.SimpleFactory.Abstract;
+using PatternProjects.SimpleFactory.Concret;
 
-namespace PatternProjects.SimpleFactory
+namespace PatternProjects.SimpleFactory.ImplementationFactory
 {
     internal class ContaSimpleFactory
     {
@@ -18,7 +15,7 @@ namespace PatternProjects.SimpleFactory
                     conta = new ContaPf();
                     break;
                 case "J":
-                    conta = new ContaPj();  
+                    conta = new ContaPj();
                     break;
                 default:
                     throw new ApplicationException($"A Conta {TipoConta} Nao foi criada");
