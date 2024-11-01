@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="PatternProjects.FactoryMethod.Abstract.Account" Collapsed="true">
+    <Position X="3" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAgAAAAAAAAAAAAAAAQAAAAAAAACAAAAAAAAAAA=</HashCode>
+      <FileName>FactoryMethod\Abstract\Account.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PatternProjects.FactoryMethod.ImplementationFactory.AccountFactoryMethod" Collapsed="true">
+    <Position X="0.5" Y="3.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAABAAAAAAAAAgAAAAAAAAAAAA=</HashCode>
+      <FileName>FactoryMethod\ImplementationFactory\AccountFactoryMethod.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PatternProjects.FactoryMethod.ImplementationFactory.BrazilAccountFactory" Collapsed="true">
+    <Position X="0.5" Y="4.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>FactoryMethod\ImplementationFactory\BrazilAccountFactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PatternProjects.FactoryMethod.ImplementationFactory.UsaAccountFactory" Collapsed="true">
+    <Position X="9.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>FactoryMethod\ImplementationFactory\UsaAccountFactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PatternProjects.FactoryMethod.ImplementationFactory.SimpleFactory.AccountSimpleFactory" Collapsed="true">
+    <Position X="7.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>FactoryMethod\ImplementationFactory\SimpleFactory\AccountSimpleFactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PatternProjects.FactoryMethod.Concret.FloridaAccount" Collapsed="true">
+    <Position X="0.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>FactoryMethod\Concret\FloridaAccount.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PatternProjects.FactoryMethod.Concret.NewYorkAccount" Collapsed="true">
+    <Position X="3" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>FactoryMethod\Concret\NewYorkAccount.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PatternProjects.FactoryMethod.Concret.SaoPauloAccount" Collapsed="true">
+    <Position X="5.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>FactoryMethod\Concret\SaoPauloAccount.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
